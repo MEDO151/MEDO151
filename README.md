@@ -39,9 +39,10 @@
  ### 🔗Contact Me
 [![FaceBook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100009149446179)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:AmrSaaayed74@gmail.com)](mailto:medoahmed20280@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alkafrawy-58892529b/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/medo_ahmed54/)
 [![Whatsapp](https://img.shields.io/badge/-Whatsapp-075e54?style=for-the-badge&logo=Whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=01013542677)
-[![linkedin](https://img.shields.io/badge/linkedin-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-alkafrawy-58892529b/)
+
 
 
 <!-- ### 🔗Contact Me
