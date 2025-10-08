@@ -29,7 +29,7 @@
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
-![React](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-react-%23282C34?style=flat-square&logo=react)
 <!-- ### I’m currently learning --> 
 
 
