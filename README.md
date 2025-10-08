@@ -28,10 +28,10 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Windows](http://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=windows&logoColor=ffffff)
 ![notion](https://img.shields.io/badge/-notion-fff?style=flat-square&logo=notion&logoColor=000)
-
-
-- ### I’m currently learning 
 ![Angular](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=angular)
+![React](https://img.shields.io/badge/-Angular-%23282C34?style=flat-square&logo=react)
+<!-- ### I’m currently learning --> 
+
 
 
 <img src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width=100% height=95px>
